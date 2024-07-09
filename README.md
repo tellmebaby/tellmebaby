@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 당스만_React
+# 프로젝트
+## 당스만_React
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_REACT_STARMAKERS)](https://github.com/tellmebaby/TJE_REACT_STARMAKERS.git)
+## 당스만_SpringBoot
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_STARMAKERS)](https://github.com/tellmebaby/TJE_STARMAKERS.git)
+## 학사정보 키오스크 시스템
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=theJoeunUniversity)](https://github.com/JongsikLEE01/theJoeunUniversity.git)
 
 ## Git STreak
 [![GitHub Streak](https://streak-stats.demolab.com?user=tellmebaby&theme=github-light&hide_border=true&border_radius=20&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
 ## 기술 스택
-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
