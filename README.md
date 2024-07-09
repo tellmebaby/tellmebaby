@@ -1,5 +1,5 @@
 ## 웹 앱 풀스택 개발자 홍성 입니다.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tellmebaby&layout=compact)](https://https://github.com/tellmebaby/tellmebaby)
 <!--
 **tellmebaby/tellmebaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 당스만_React
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_REACT_STARMAKERS)](https://github.com/tellmebaby/TJE_REACT_STARMAKERS.git)
+
 ## 당스만_SpringBoot
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_STARMAKERS)](https://github.com/tellmebaby/TJE_STARMAKERS.git)
 ## 학사정보 키오스크 시스템
