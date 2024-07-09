@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 당스만_React
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=당스만_React)](https://github.com/tellmebaby/TJE_REACT_STARMAKERS.git))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_REACT_STARMAKERS)](https://github.com/tellmebaby/TJE_REACT_STARMAKERS.git))
 
 ## Git STreak
 [![GitHub Streak](https://streak-stats.demolab.com?user=tellmebaby&theme=github-light&hide_border=true&border_radius=20&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
