@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 당스만_SpringBoot
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_STARMAKERS)](https://github.com/tellmebaby/TJE_STARMAKERS.git)
 ## 학사정보 키오스크 시스템
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=theJoeunUniversity)](https://github.com/JongsikLEE01/theJoeunUniversity.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JongsikLEE01&repo=theJoeunUniversity)](https://github.com/JongsikLEE01/theJoeunUniversity.git)
 
 ## Git STreak
 [![GitHub Streak](https://streak-stats.demolab.com?user=tellmebaby&theme=github-light&hide_border=true&border_radius=20&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
