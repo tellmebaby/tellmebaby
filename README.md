@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 프로젝트
 ## 당스만_React
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_REACT_STARMAKERS)](https://github.com/tellmebaby/TJE_REACT_STARMAKERS.git)
 ## 당스만_SpringBoot
