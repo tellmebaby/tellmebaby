@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 당스만_flutter
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_DSM_APP)](https://github.com/tellmebaby/TJE_DSM_APP.git)
+
 ## 당스만_React
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tellmebaby&repo=TJE_REACT_STARMAKERS)](https://github.com/tellmebaby/TJE_REACT_STARMAKERS.git)
 
