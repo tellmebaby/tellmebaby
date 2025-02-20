@@ -42,5 +42,13 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tellmebaby&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/tellmebaby"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 
