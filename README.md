@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 마이펫 - 알클 길드
+## gitanimals - 알클 길드
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tellmebaby&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/tellmebaby"
